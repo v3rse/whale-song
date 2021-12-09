@@ -5,4 +5,4 @@ docker-compose \
 -f postgresql.yml \
 -f mongodb.yml \
 -f redis.yml \
-up -d --build
+down
